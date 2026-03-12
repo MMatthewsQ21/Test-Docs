@@ -40,7 +40,7 @@ markdown_extensions:
   - pymdownx.blocks.caption
 plugins:
   - blog:
-      blog_dir: 7.News
+      blog_dir: News
       post_date_format: full
 copyright: |
   Copyright &copy; CLIMB 2025

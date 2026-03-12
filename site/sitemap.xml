@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/1.Overview/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/1.Overview/1.1.T%26Cs/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/1.Overview/1.2.Privacy/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/1.Overview/1.3.team/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/1.Overview/1.4.history/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/1.Overview/1.5.citation/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/News/</loc>
+         <lastmod>2026-03-12</lastmod>
+    </url>
+</urlset>
